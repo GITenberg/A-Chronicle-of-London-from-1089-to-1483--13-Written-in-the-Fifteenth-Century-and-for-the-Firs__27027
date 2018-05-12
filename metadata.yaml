@@ -1,0 +1,45 @@
+_repo: A-Chronicle-of-London-from-1089-to-1483--13-Written-in-the-Fifteenth-Century-and-for-the-Firs__27027
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  editors:
+  - agent_name: Nicolas, Nicholas Harris, Sir
+    aliases:
+    - Nicholas, Nicholas Harris, Sir
+    - Nicolas, Harris, Sir
+    birthdate: 1799
+    deathdate: 1848
+    gutenberg_agent_id: '32389'
+    url: http://www.gutenberg.org/2009/agents/32389
+  - agent_name: Tyrrell, E. (Edward)
+    alias: Tyrrell, Edward
+    birthdate: 1792
+    deathdate: 1881
+    gutenberg_agent_id: '32390'
+    url: http://www.gutenberg.org/2009/agents/32390
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History -- To 1500'
+- !lcsh 'London (England) -- Social life and customs -- To 1500'
+title: "A Chronicle of London from 1089 to 1483\r\nWritten in the Fifteenth Century,\
+  \ and for the First Time Printed from MSS. in the British Museum"
+url: http://www.gutenberg.org/ebooks/27027
